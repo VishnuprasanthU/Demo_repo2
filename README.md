@@ -5,4 +5,5 @@
  This is feature branch readme.
  COnflicting branch merges 
  to check the reset command.
- Hello  
+ Hello
+ 
